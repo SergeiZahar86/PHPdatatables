@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70e49bf3-173c-4d39-9134-72b8b7272589" name="Default Changelist" comment="" />
+    <list default="true" id="70e49bf3-173c-4d39-9134-72b8b7272589" name="Default Changelist" comment="1">
+      <change afterPath="$PROJECT_DIR$/database_connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fetch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +27,9 @@
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP_7.3-x64" />
   <component name="PhpXdebugProxy" ide_key="PHPSTORM" host="127.0.0.1" port="9009" />
   <component name="ProjectId" id="1nrPW1URvMZDZRrE6HGAXmNGaNi" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -57,12 +64,24 @@
       <workItem from="1612147142262" duration="1928000" />
       <workItem from="1612149158394" duration="69000" />
       <workItem from="1612149691029" duration="954000" />
-      <workItem from="1612150749163" duration="2916000" />
+      <workItem from="1612150749163" duration="3897000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1612155249858</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612155249858</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2356" y="95" key="#CLI_Interpreters" timestamp="1612151481498">
@@ -81,38 +100,46 @@
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2685" y="159" key="Github.UntrackedFilesDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1612154982156" />
-    <state width="1865" height="323" key="GridCell.Tab.0.bottom" timestamp="1612153553866">
+    <state width="1865" height="120" key="GridCell.Tab.0.bottom" timestamp="1612155976782">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1865" height="323" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1612153553866" />
-    <state width="1865" height="323" key="GridCell.Tab.0.center" timestamp="1612153553865">
+    <state width="1865" height="120" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1612155976782" />
+    <state width="1865" height="120" key="GridCell.Tab.0.center" timestamp="1612155976782">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1865" height="323" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1612153553865" />
-    <state width="1865" height="323" key="GridCell.Tab.0.left" timestamp="1612153553865">
+    <state width="1865" height="120" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1612155976782" />
+    <state width="1865" height="120" key="GridCell.Tab.0.left" timestamp="1612155976782">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1865" height="323" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1612153553865" />
-    <state width="1865" height="323" key="GridCell.Tab.0.right" timestamp="1612153553865">
+    <state width="1865" height="120" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1612155976782" />
+    <state width="1865" height="120" key="GridCell.Tab.0.right" timestamp="1612155976782">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1865" height="323" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1612153553865" />
-    <state width="1865" height="323" key="GridCell.Tab.1.bottom" timestamp="1612153553866">
+    <state width="1865" height="120" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1612155976782" />
+    <state width="1865" height="323" key="GridCell.Tab.1.bottom" timestamp="1612155631965">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1865" height="323" key="GridCell.Tab.1.bottom/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1612153553866" />
-    <state width="1865" height="323" key="GridCell.Tab.1.center" timestamp="1612153553866">
+    <state width="1865" height="323" key="GridCell.Tab.1.bottom/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1612155631965" />
+    <state width="1865" height="323" key="GridCell.Tab.1.center" timestamp="1612155631965">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1865" height="323" key="GridCell.Tab.1.center/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1612153553866" />
-    <state width="1865" height="323" key="GridCell.Tab.1.left" timestamp="1612153553866">
+    <state width="1865" height="323" key="GridCell.Tab.1.center/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1612155631965" />
+    <state width="1865" height="323" key="GridCell.Tab.1.left" timestamp="1612155631965">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1865" height="323" key="GridCell.Tab.1.left/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1612153553866" />
-    <state width="1865" height="323" key="GridCell.Tab.1.right" timestamp="1612153553866">
+    <state width="1865" height="323" key="GridCell.Tab.1.left/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1612155631965" />
+    <state width="1865" height="323" key="GridCell.Tab.1.right" timestamp="1612155631965">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1865" height="323" key="GridCell.Tab.1.right/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1612153553866" />
+    <state width="1865" height="323" key="GridCell.Tab.1.right/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1612155631965" />
+    <state x="2665" y="193" key="NewPhpClassDialog" timestamp="1612155305303">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2665" y="193" key="NewPhpClassDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1612155305303" />
+    <state x="2689" y="431" key="NewPhpFileDialog" timestamp="1612155589304">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2689" y="431" key="NewPhpFileDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1612155589304" />
     <state x="2271" y="83" key="SettingsEditor" timestamp="1612151483084">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
