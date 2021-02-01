@@ -10,6 +10,9 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpServers">
     <servers>
@@ -19,6 +22,7 @@
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP_7.3-x64" />
   <component name="PhpXdebugProxy" ide_key="PHPSTORM" host="127.0.0.1" port="9009" />
   <component name="ProjectId" id="1nrPW1URvMZDZRrE6HGAXmNGaNi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -53,7 +57,7 @@
       <workItem from="1612147142262" duration="1928000" />
       <workItem from="1612149158394" duration="69000" />
       <workItem from="1612149691029" duration="954000" />
-      <workItem from="1612150749163" duration="2196000" />
+      <workItem from="1612150749163" duration="2916000" />
     </task>
     <servers />
   </component>
@@ -69,6 +73,14 @@
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2606" y="220" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1612150929631" />
+    <state x="2724" y="396" width="462" height="257" key="Github.ShareDialog" timestamp="1612154975496">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2724" y="396" width="462" height="257" key="Github.ShareDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1612154975496" />
+    <state x="2685" y="159" key="Github.UntrackedFilesDialog" timestamp="1612154982156">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2685" y="159" key="Github.UntrackedFilesDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1612154982156" />
     <state width="1865" height="323" key="GridCell.Tab.0.bottom" timestamp="1612153553866">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
