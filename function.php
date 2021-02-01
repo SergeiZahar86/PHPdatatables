@@ -1,5 +1,4 @@
 <?php
-
 function get_total_all_records()
 {
     include('database connection.php');
